@@ -29,6 +29,7 @@ for (let i = 0; i < array7.length; i++) {
 }
 console.log('\n');
 
+console.log(`Всего элементов в массиве: ${array7.length}`);
 console.log(`Всего элементов не являющихся числами: ` + noNumber);
 console.log(`Всего элементов являющихся нулём: ` + nullNumber);
 console.log(`Всего чётных элементов: ` + evenNumber);
